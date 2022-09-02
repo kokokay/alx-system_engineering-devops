@@ -1,3 +1,4 @@
 
 
-#!/bin/bash > ls >>
+#!/bin/bash > 1-listit
+ls >> 1-listit
