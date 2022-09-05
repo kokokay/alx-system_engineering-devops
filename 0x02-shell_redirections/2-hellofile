@@ -1,2 +1,2 @@
 #1/bin/bash
-cat /etc
+cat etc/passwd
